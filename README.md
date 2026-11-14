@@ -8,10 +8,12 @@ A limited demonstration adapted from the Coki Driving School learner platform.
 - Demo learner name/ID field (not sent to a server)
 - Multiple-choice interaction, score and answer review
 - Responsive learner-facing landing page
+- Lusvendas red, black and white brand styling with a recreated SVG logo
+- Owner dashboard preview with sample learner profiles, search, status updates and CSV export
 
 ## Not included
 - Full question bank or five-test programme
-- Student database, admin dashboard or learner progress monitoring
+- Live student database, secure owner authentication or server-side learner progress monitoring (the owner dashboard is a browser-only demo)
 - Payment processing, subscriptions or production enrolment
 - Full learning manual or essential-knowledge pages
 
