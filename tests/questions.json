@@ -1,0 +1,149 @@
+{
+  "test1": [
+    {
+      "id": 159,
+      "category": "road_signs",
+      "question": "What does this blue countdown sign with two white diagonal bars indicate?",
+      "options": [
+        "A high-speed exit is approximately 200 metres ahead.",
+        "A high-speed exit is approximately 100 metres ahead.",
+        "A high-speed exit is approximately 300 metres ahead."
+      ],
+      "correctIndex": 0,
+      "diagramImages": [
+        "../assets/road-signs/q160-1.png"
+      ],
+      "diagramMode": "road_signs"
+    },
+    {
+      "id": 189,
+      "category": "motorcycle",
+      "question": "How far may anything project to the rear of a motorcycle?",
+      "options": [
+        "850mm from the rear axel",
+        "1.8meters to the rear",
+        "Nothing is allowed to project behind a motorcycle"
+      ],
+      "correctIndex": 0,
+      "diagramImages": [],
+      "diagramMode": null
+    },
+    {
+      "id": 212,
+      "category": "light_motor_vehicle",
+      "question": "Which numbered controls do you use to select a gear?",
+      "options": [
+        "7 & 9",
+        "5 & 8",
+        "6 & 8"
+      ],
+      "correctIndex": 2,
+      "diagramImages": [
+        "../assets/control-diagrams/light-motor-controls-212.jpg"
+      ],
+      "diagramMode": "vehicle_controls"
+    },
+    {
+      "id": 51,
+      "category": "rules",
+      "question": "When may part of a person’s body project beyond a vehicle?",
+      "options": [
+        "Only for the driver to give hand signals",
+        "Only passengers may allow a portion of their bodies to project, they don’t need 2 hands on the steering wheel.",
+        "When it is hot and the driver’s window is open"
+      ],
+      "correctIndex": 0,
+      "diagramImages": [],
+      "diagramMode": null
+    },
+    {
+      "id": 196,
+      "category": "motorcycle",
+      "question": "To indicate that you are going to turn you must use number",
+      "options": [
+        "6",
+        "4",
+        "8"
+      ],
+      "correctIndex": 0,
+      "diagramImages": [
+        "../assets/control-diagrams/motorcycle-controls.jpg"
+      ],
+      "diagramMode": "vehicle_controls"
+    },
+    {
+      "id": 111,
+      "category": "road_signs",
+      "question": "Road marking RTM 1 shows you that",
+      "options": [
+        "If you are driving in car A, must stop before this line",
+        "If you are driving in car A, must reduce speed and ride on if it is safe",
+        "If you are driving in car B, can pass car A if there are no other vehicles in the Intersection"
+      ],
+      "correctIndex": 0,
+      "diagramImages": [
+        "../assets/road-signs/q111-1.png"
+      ],
+      "diagramMode": "road_signs"
+    },
+    {
+      "id": 99,
+      "category": "road_signs",
+      "question": "The winding-road warning sign with an 80 km/h advisory-speed plate and a 'For 12 km' plate indicates that",
+      "options": [
+        "A winding section lies ahead for 12 km, with an advisory speed of 80 km/h.",
+        "The legal speed limit is 80 km/h for the next 12 km in all conditions.",
+        "The road is slippery for the next 12 km."
+      ],
+      "correctIndex": 0,
+      "diagramImages": [
+        "../assets/road-signs/q099-1.png",
+        "../assets/road-signs/q099-2.png"
+      ],
+      "diagramMode": "road_signs"
+    },
+    {
+      "id": 102,
+      "category": "road_signs",
+      "question": "This Road marking is a",
+      "options": [
+        "Pedestrian crossing where you must stop for pedestrians",
+        "Painted island where you are not allowed to drive on or stop",
+        "Chevron that indicates a curve to the left"
+      ],
+      "correctIndex": 1,
+      "diagramImages": [
+        "../assets/road-signs/q102-1.png"
+      ],
+      "diagramMode": "road_signs"
+    },
+    {
+      "id": 55,
+      "category": "rules",
+      "question": "How close to the left edge of the roadway may you park outside an urban area?",
+      "options": [
+        "A vehicle may not park on a public road unless in a parking bay.",
+        "Not more than 450mm from the edge of the road way.",
+        "Not more than 1m from the edge of the road way."
+      ],
+      "correctIndex": 1,
+      "diagramImages": [],
+      "diagramMode": null
+    },
+    {
+      "id": 101,
+      "category": "traffic_signals",
+      "question": "What does a steady red cross displayed above a traffic lane mean?",
+      "options": [
+        "You must not drive in the lane below the red cross; it may be open to traffic travelling in the opposite direction.",
+        "You may use the lane if you drive slowly.",
+        "The lane is open to traffic travelling in your direction."
+      ],
+      "correctIndex": 0,
+      "diagramImages": [
+        "../assets/road-signs/q101-1.png"
+      ],
+      "diagramMode": "road_signs"
+    }
+  ]
+}
