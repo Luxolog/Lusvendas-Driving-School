@@ -1,5 +1,25 @@
 # Lusvendas Driving School — Demo Environment
 
-A limited demonstration adapted from the separate Coki Driving School project. The demo is restricted to one 10-question sample quiz and a minimal learner-facing preview. It is not a complete K53 learning programme or an official examination. No live learner database, school admin dashboard, payments or production enrolment are connected.
+A limited demonstration adapted from the Coki Driving School learner platform.
 
-Coki's source repository remains unchanged.
+## Demo scope
+- Lusvendas Driving School branding
+- One sample quiz containing exactly 10 questions
+- Demo learner name/ID field (not sent to a server)
+- Multiple-choice interaction, score and answer review
+- Responsive learner-facing landing page
+
+## Not included
+- Full question bank or five-test programme
+- Student database, admin dashboard or learner progress monitoring
+- Payment processing, subscriptions or production enrolment
+- Full learning manual or essential-knowledge pages
+
+## Source
+Adapted from the separate Coki Driving School project and its K53 sample question bank. The Coki repository remains unchanged.
+
+## Publishing
+Enable GitHub Pages from Settings → Pages → Deploy from a branch → main → /(root).
+
+## Important
+This is a sales demonstration only, not a complete K53 learner preparation programme or an official examination. The 10 sample questions are drawn from the source project. Confirm current question wording and answers against official South African guidance before using them as teaching material.
